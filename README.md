@@ -1,3 +1,3 @@
 ### Image Viewer
 
-Instagram alike ReactJS web application. This project was part of UpGrad course.
+Instagram like ReactJS web application. This project was part of IIIT-B program.
